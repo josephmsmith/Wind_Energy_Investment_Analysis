@@ -1,6 +1,6 @@
 # Gone With The Wind: Investment Analysis
 Used SQL, Tableau, Python(Pandas), to analyze Global Energy market and more specifically the US Wind Market for Potential Investors. 
-Worked with Camille Hobbs, Connor Edwards, and Esther Choe to complete this project in a 4 day sprint. 
+Worked with Camille Hobbs, Connor Edwards, and Esther Choe to complete this project in a 4 day sprint using task backlog and trello. 
 
 ## Introduction
 Wind power has become an increasingly important source of renewable energy in the global energy market. According to the International Energy Agency (IEA), wind power is the second-largest source of renewable energy after hydropower and is expected to continue to grow in importance in the coming years. In 2019, the market size was valued at $62.1 billion, and it's projected to reach $127.2 billion by 2027 - that's a growth rate of 9.3%. 
